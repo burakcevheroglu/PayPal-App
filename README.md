@@ -1,16 +1,22 @@
-# paymentapp
+# PayPal Application as Redesigned
 
-A new Flutter project.
+I redesigned UI/UX for PayPal and coded it with using Flutter.
 
-## Getting Started
+## Screenshots
+### Main Screen
 
-This project is a starting point for a Flutter application.
+| First Screen       |  First Screen          |
+| ------------- |:-------------:|
+| <img src="screenshots/p10.png" alt="Screenshot" width="300">     | <img src="screenshots/p11.png" alt="Screenshot" width="300"> |
 
-A few resources to get you started if this is your first Flutter project:
+### Statistics Screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Second Screen       |  Second Screen          |
+| ------------- |:-------------:|
+| <img src="screenshots/p40.png" alt="Screenshot" width="300">     | <img src="screenshots/p41.png" alt="Screenshot" width="300"> |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Other Screens
+
+| Purchase Detail Screen       |  Settings Screen          |
+| ------------- |:-------------:|
+| <img src="screenshots/p20.png" alt="Screenshot" width="300">     | <img src="screenshots/p30.png" alt="Screenshot" width="300"> |
